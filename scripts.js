@@ -39,4 +39,4 @@ var fourthFunc = function(sentence) {
   alert(final);
 }
 
-fourthFunc(sentence);
+var lastBit = fourthFunc(sentence);
